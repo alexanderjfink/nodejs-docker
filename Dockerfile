@@ -1,7 +1,5 @@
 FROM dockerfile/ubuntu
 
-MAINTAINER Abhinav Ajgaonkar <abhinav316@gmail.com>
-
 # Install pre-reqs
 RUN   \
   apt-get -y -qq install python
