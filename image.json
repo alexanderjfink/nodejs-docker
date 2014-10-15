@@ -1,10 +1,7 @@
 {
-  "name": "node-example",
+  "name": "nodejs-docker",
   "version": "0.1.0",
-  "description": "A basic node.js express app with Redis.",
-  "author": "Kitematic",
+  "description": "A basic node.js app for Kitematic.",
+  "author": "Alexander Fink <alexanderjfink@gmail.com>",
   "logo": "logo.png",
-  "app": {
-    "webPort": 3000
-  }
 }
